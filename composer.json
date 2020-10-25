@@ -1,5 +1,6 @@
 {
   "name": "moisesduartem/miniframework",
+  "type": "project",
   "description": "description",
   "minimum-stability": "stable",
   "license": "proprietary",
