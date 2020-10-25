@@ -1,0 +1,19 @@
+{
+  "name": "moisesduartem/miniframework",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Moisés Mariano"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Bootstrap\\": "bootstrap/"
+    }
+  }
+}
